@@ -1,4 +1,3 @@
-// src/App.js
 import React from 'react';
 import {StyleSheet, TouchableOpacity, BackHandler} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
